@@ -1,3 +1,5 @@
+[![CI](https://github.com/akul-bharadwaj/huggingface-ghcr/actions/workflows/main.yml/badge.svg)](https://github.com/akul-bharadwaj/huggingface-ghcr/actions/workflows/main.yml)
+
 # 🤗 Hugging Face packaging using GitHub Container Registry
 
 Learn how to create a container and package it with GitHub Actions. This repository gives you a good starting point for a Dockerfile, GitHub Actions workflow, and Python code.
