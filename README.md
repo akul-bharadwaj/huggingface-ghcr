@@ -1,4 +1,3 @@
-[![CI](https://github.com/akul-bharadwaj/huggingface-ghcr/actions/workflows/main.yml/badge.svg)](https://github.com/akul-bharadwaj/huggingface-ghcr/actions/workflows/main.yml)
 
 # 🤗 Hugging Face packaging using GitHub Container Registry
 
